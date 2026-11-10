@@ -10,9 +10,9 @@
 
 ## About the project
 
-CN Runner is a mobile game I planned and built for **CubeNation**, a Rubik's cube shop in Bangladesh, to give its customers a fun reason to keep coming back to the brand.
+CN Runner is a mobile game I built for **CubeNation**, an online speed cube and puzzle store in Bangladesh, to give its customers a fun reason to keep coming back to the brand.
 
-**My role:** product owner. I decided the game idea, levels, rules, rewards and look, tested every build on phones and PC, and worked through the fixes. The code was written with **AI (Claude)** under my direction.
+**My role:** product owner. I shaped the features, tested every build on phones and PC, and gave the feedback that drove each fix. The code was written with **AI (Claude)**.
 
 ## Features
 
